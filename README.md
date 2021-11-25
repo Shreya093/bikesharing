@@ -13,7 +13,7 @@ The purpose of the project was to use data from New York City's Citi Bike progra
 
 ## Link to Tableau Story
 
-[Tableau Story]("https://public.tableau.com/app/profile/shreya.srivastava4743/viz/NYCCitiBikeStory_ModuleChallenge/NYCCitiBikeStory?publish=yes")
+[Tableau Story](https://public.tableau.com/app/profile/shreya.srivastava4743/viz/NYCCitiBikeStory_ModuleChallenge/NYCCitiBikeStory?publish=yes)
 
 ## Cleaning the data
 
@@ -35,7 +35,7 @@ Using the NYC citibike data we found that there were some interesting geographic
 
 ## 1. Checkout Time for All Users :
 
-[Checkout Time for All Users]("https://public.tableau.com/app/profile/shreya.srivastava4743/viz/CheckoutTimeforUsers_16377972283520/CheckoutTimesforUsers?publish=yes")
+[Checkout Time for All Users](https://public.tableau.com/app/profile/shreya.srivastava4743/viz/CheckoutTimeforUsers_16377972283520/CheckoutTimesforUsers?publish=yes)
 
 The graph shows that the vast majority of trips taken on CitiBike bikes are under an hour in length. More specifically, most trips are under a half-hour in length, with a swift dropoff in number of rides over an hour in length.
 
@@ -44,7 +44,7 @@ The graph shows that the vast majority of trips taken on CitiBike bikes are unde
 
 ## 2. Checkout Times by Gender :
 
-[Checkout Times by Gender]("https://public.tableau.com/app/profile/shreya.srivastava4743/viz/CheckoutTimebyGender_16377978903760/CheckoutTimesbyGender?publish=yes")
+[Checkout Times by Gender](https://public.tableau.com/app/profile/shreya.srivastava4743/viz/CheckoutTimebyGender_16377978903760/CheckoutTimesbyGender?publish=yes)
 
 This breakdown of number of rides by duration, separated by gender, makes it even more apparent that Males are significantly higher bike users than others.
 
@@ -53,7 +53,7 @@ This breakdown of number of rides by duration, separated by gender, makes it eve
 
 ## 3. Trips by Weekday per Hour :
 
-[Trips by Weekday per Hour]("https://public.tableau.com/app/profile/shreya.srivastava4743/viz/TripsbyWeekdayperHour_16377984964870/TripsbyWeekdayperHour?publish=yes")
+[Trips by Weekday per Hour](https://public.tableau.com/app/profile/shreya.srivastava4743/viz/TripsbyWeekdayperHour_16377984964870/TripsbyWeekdayperHour?publish=yes)
 
 The heatmap graph shows that 6-10 am and 5-8 PM are peak riding hours during the weekday and 5 am to 10 pm on the weekends.
 
@@ -62,7 +62,7 @@ The heatmap graph shows that 6-10 am and 5-8 PM are peak riding hours during the
 
 ## 4. Trips by Gender (Weekday per Hour) :
 
-[Trips by Gender (Weekday per Hour)]("https://public.tableau.com/app/profile/shreya.srivastava4743/viz/TripsbyGenderWeekdayperHour_16377988662440/TripsbyGenderWeekdayperHour?publish=yes")
+[Trips by Gender (Weekday per Hour)](https://public.tableau.com/app/profile/shreya.srivastava4743/viz/TripsbyGenderWeekdayperHour_16377988662440/TripsbyGenderWeekdayperHour?publish=yes)
 
 Male bikers are the high users during the peak hours.
 
@@ -70,7 +70,7 @@ Male bikers are the high users during the peak hours.
 
 ## 5. User Trips by Gender by Weekday :
 
-[User Trips by Gender by Weekday]("https://public.tableau.com/app/profile/shreya.srivastava4743/viz/UserTripsbyGenderbyWeekday_16377992836770/UserTripsbyGenderbyWeekday_1?publish=yes")
+[User Trips by Gender by Weekday](https://public.tableau.com/app/profile/shreya.srivastava4743/viz/UserTripsbyGenderbyWeekday_16377992836770/UserTripsbyGenderbyWeekday_1?publish=yes)
 
 The graph shows that the Males subscribers are the highest users followed by female subscribers.
 
@@ -78,7 +78,7 @@ The graph shows that the Males subscribers are the highest users followed by fem
 
 ## 6. Number of Rides per Hour :
 
-[Number of Rides per Hour]("https://public.tableau.com/app/profile/shreya.srivastava4743/viz/NumberofRidesperHour/NumberofRidesperHour?publish=yes")
+[Number of Rides per Hour](https://public.tableau.com/app/profile/shreya.srivastava4743/viz/NumberofRidesperHour/NumberofRidesperHour?publish=yes)
 
 The bar graph shows that 1am to 5am are the non-peak bikeriding hours.
 
@@ -87,7 +87,7 @@ The bar graph shows that 1am to 5am are the non-peak bikeriding hours.
 
 ## 7. Number of Rides with Bike ID :
 
-[Number of Rides with Bike ID]("https://public.tableau.com/app/profile/shreya.srivastava4743/viz/NumberofRideswithBikeID/NumberofRideswithBikeID?publish=yes")
+[Number of Rides with Bike ID](https://public.tableau.com/app/profile/shreya.srivastava4743/viz/NumberofRideswithBikeID/NumberofRideswithBikeID?publish=yes)
 
 The divergence line shows that there are high use on 1/3 of the bikes.
 
@@ -106,7 +106,7 @@ For NYC, there were some interesting geographical areas of interest. Some trips 
 
 ## 1. Ride Starting Locations by Gender
 
-[Ride Starting Locations by Gender]("https://public.tableau.com/app/profile/shreya.srivastava4743/viz/RideStartingLocationsbyGender/RideStartingLocationsbyGender?publish=yes")
+[Ride Starting Locations by Gender](https://public.tableau.com/app/profile/shreya.srivastava4743/viz/RideStartingLocationsbyGender/RideStartingLocationsbyGender?publish=yes)
 
 The map shows that Males are more likely to start a trip farther than the main city center of NYC than others.
 
@@ -115,7 +115,7 @@ The map shows that Males are more likely to start a trip farther than the main c
 
 ## 2. Ride Ending Locations by Gender
 
-[Ride Ending Locations by Gender]("https://public.tableau.com/app/profile/shreya.srivastava4743/viz/RideEndingLocationsbyGender/RideEndingLocationsbyGender?publish=yes")
+[Ride Ending Locations by Gender](https://public.tableau.com/app/profile/shreya.srivastava4743/viz/RideEndingLocationsbyGender/RideEndingLocationsbyGender?publish=yes)
 
 Males are more likely end a trip across the river in the southwest area of NYC than others.
 
@@ -123,7 +123,7 @@ Males are more likely end a trip across the river in the southwest area of NYC t
 
 ## 3. User Type Starting Location
 
-[User Type Starting Location]("https://public.tableau.com/app/profile/shreya.srivastava4743/viz/UserTypeStartingLocation/UserTypeStartingLocation?publish=yes")
+[User Type Starting Location](https://public.tableau.com/app/profile/shreya.srivastava4743/viz/UserTypeStartingLocation/UserTypeStartingLocation?publish=yes)
 
 Subscribers are more likely to start trip farther than the main city center of NYC than others.
 
